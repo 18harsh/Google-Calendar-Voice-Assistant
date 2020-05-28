@@ -3,7 +3,7 @@ You can ask your Voice Assistant to tell you about your schedule.
 
 Before running the GoogleCalendar.py file, you need to follow few steps which is in the link below.
 
-No need to follow step3. It is added with some modification in the code 
+No need to follow step3. It is already added with some modification in the code (GoogleCalendar.py). 
 
 
 https://developers.google.com/calendar/quickstart/python?authuser=3
